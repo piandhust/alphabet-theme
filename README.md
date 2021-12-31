@@ -17,7 +17,7 @@ keywords: "Learn, Listen, Share, Write, Read"
 ```
 
 With:
-- title: title in your website
-- description: description of your website
-- domain: domain of your website, ex my website is [https://piandhust.github.io/](https://piandhust.github.io/)
-- keywords: keywords is words read about your website
+- _title_: title in your website
+- _description_: description of your website
+- _domain_: domain of your website, ex my website is [https://piandhust.github.io/](https://piandhust.github.io/)
+- _keywords_: keywords is words read about your website
