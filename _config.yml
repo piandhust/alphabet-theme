@@ -3,3 +3,7 @@ title: "HUST&PI"
 description: "HUST&PI teams, Let's share, exchange and learn together."
 domain: "https://piandhust.github.io/"
 keywords: "Learn, Listen, Share, Write, Read"
+ssg:
+  - Jekyll
+cms:
+  - No CMS
